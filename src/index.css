@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-india-green-900: #0B2B20;
+  --color-india-green-800: #113D2F;
+  --color-india-green-700: #185240;
+  --color-india-green-600: #236B54;
+  --color-india-cream-50: #FAF7F2;
+  --color-india-cream-100: #F4EFE6;
+  --color-india-cream-200: #EAE2D5;
+  --color-india-saffron: #E25822;
+  --color-india-saffron-hover: #C84614;
+  --color-india-gold: #D4AF37;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+.font-serif-title {
+  font-family: var(--font-serif);
+}

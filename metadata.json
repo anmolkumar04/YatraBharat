@@ -1,0 +1,6 @@
+{
+  "name": "YatraBharat",
+  "description": "An India tourism platform featuring destination discovery, cultural insights, travel safety guides, multi-lingual non-AI voice translation, and intelligent trip planning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
